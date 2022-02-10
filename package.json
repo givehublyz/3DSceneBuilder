@@ -41,7 +41,7 @@
     "file-saver": "^2.0.2",
     "html2canvas": "^1.0.0-rc.5",
     "jquery": "^3.4.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss-flexbugs-fixes": "^4.2.0",
     "postcss-loader": "^3.0.0",
     "precss": "^4.0.0",
